@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Saltos.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="169"/>
+        <CursorPos X="74" Y="172"/>
+        <FoldState Value=" T3H0H011H"/>
+        <UsageCount Value="28"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="26" HistoryIndex="25">
+      <Position1>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="18" Column="3" TopLine="7"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="16" Column="39"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="18" Column="29" TopLine="8"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="16" Column="40"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="81" Column="14" TopLine="55"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="79" Column="25" TopLine="59"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="50" Column="34" TopLine="10"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="14" Column="38"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="50" Column="14" TopLine="16"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="87" Column="23" TopLine="64"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="97" Column="5" TopLine="38"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="63" Column="29" TopLine="39"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="94" Column="23" TopLine="80"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="95" TopLine="81"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="119" Column="10" TopLine="92"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="49" Column="20" TopLine="16"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="53" Column="11" TopLine="17"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="51" Column="23" TopLine="38"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="116" Column="12" TopLine="61"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="122" Column="22" TopLine="111"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="36" Column="42" TopLine="18"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="38" Column="27" TopLine="6"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="52" Column="26" TopLine="36"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="55" Column="7" TopLine="43"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="155" Column="32" TopLine="141"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Saltos.pas"/>
+        <Caret Line="153" Column="25" TopLine="139"/>
+      </Position26>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
