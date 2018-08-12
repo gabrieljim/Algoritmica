@@ -1,0 +1,142 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CONFIG>
+  <ProjectSession>
+    <PathDelim Value="\"/>
+    <Version Value="10"/>
+    <BuildModes Active="Default"/>
+    <Units Count="1">
+      <Unit0>
+        <Filename Value="Mitsubicho.pas"/>
+        <IsPartOfProject Value="True"/>
+        <IsVisibleTab Value="True"/>
+        <TopLine Value="276"/>
+        <CursorPos X="28" Y="300"/>
+        <FoldState Value=" T390+23"/>
+        <UsageCount Value="45"/>
+        <Loaded Value="True"/>
+      </Unit0>
+    </Units>
+    <JumpHistory Count="30" HistoryIndex="29">
+      <Position1>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="104" Column="14" TopLine="95"/>
+      </Position1>
+      <Position2>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="153" Column="27" TopLine="129"/>
+      </Position2>
+      <Position3>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="127" Column="15" TopLine="116"/>
+      </Position3>
+      <Position4>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="183" Column="34" TopLine="163"/>
+      </Position4>
+      <Position5>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="102" Column="34" TopLine="72"/>
+      </Position5>
+      <Position6>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="104" Column="8" TopLine="72"/>
+      </Position6>
+      <Position7>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="120" Column="5" TopLine="4"/>
+      </Position7>
+      <Position8>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="183" Column="34" TopLine="163"/>
+      </Position8>
+      <Position9>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="208" Column="12" TopLine="186"/>
+      </Position9>
+      <Position10>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="102" Column="39" TopLine="72"/>
+      </Position10>
+      <Position11>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="103" Column="14" TopLine="72"/>
+      </Position11>
+      <Position12>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="204" Column="27" TopLine="184"/>
+      </Position12>
+      <Position13>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="209" Column="22" TopLine="188"/>
+      </Position13>
+      <Position14>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="207" TopLine="188"/>
+      </Position14>
+      <Position15>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="206" Column="74" TopLine="188"/>
+      </Position15>
+      <Position16>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="6" Column="41"/>
+      </Position16>
+      <Position17>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="217" Column="24" TopLine="192"/>
+      </Position17>
+      <Position18>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="134" Column="71" TopLine="113"/>
+      </Position18>
+      <Position19>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="227" Column="29" TopLine="200"/>
+      </Position19>
+      <Position20>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="233" Column="27" TopLine="209"/>
+      </Position20>
+      <Position21>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="122" Column="22" TopLine="104"/>
+      </Position21>
+      <Position22>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="126" Column="20" TopLine="113"/>
+      </Position22>
+      <Position23>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="113" Column="47"/>
+      </Position23>
+      <Position24>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="135" Column="22" TopLine="129"/>
+      </Position24>
+      <Position25>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="233" Column="27" TopLine="211"/>
+      </Position25>
+      <Position26>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="235" Column="37" TopLine="216"/>
+      </Position26>
+      <Position27>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="127" Column="20" TopLine="105"/>
+      </Position27>
+      <Position28>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="276" Column="12" TopLine="250"/>
+      </Position28>
+      <Position29>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="252" Column="77" TopLine="239"/>
+      </Position29>
+      <Position30>
+        <Filename Value="Mitsubicho.pas"/>
+        <Caret Line="280" Column="12" TopLine="253"/>
+      </Position30>
+    </JumpHistory>
+  </ProjectSession>
+</CONFIG>
